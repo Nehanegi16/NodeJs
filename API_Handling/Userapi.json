@@ -1,0 +1,27 @@
+[
+    
+    {
+        "id":1,
+        "name":"neha",
+        "class":"bca",
+        "rollno":"6224"
+    },
+    {
+        "id":2,
+        "name":"puneet superstar",
+        "class":"bcm",
+        "rollno":"6225"
+    },
+    {
+        "id":3,
+        "name":"chhuha",
+        "class":"ba",
+        "rollno":"6226"
+    },
+    {
+        "id":4,
+        "name":"kukur",
+        "class":"btch",
+        "rollno":"6227"
+    }
+]
